@@ -1,4 +1,4 @@
-This purpose of this small project is to show people's information sorted by name.
+The purpose of this small project is to show people's information sorted by name.
 
 It's created using TypeScript and some utility functions.
 
